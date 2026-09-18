@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Zomato restaurant data using Python and Power BI. It also uses Machine Learning to classify restaurants based on their ratings.
+This project analyzes Zomato restaurant data using Python and Power BI. It also uses Machine Learning to classify restaurants based on their price range.
 
 ## Objectives
 
@@ -23,7 +23,7 @@ This project analyzes Zomato restaurant data using Python and Power BI. It also 
 * Seaborn
 * Scikit-learn
 * Power BI
-* Jupyter Notebook / Google Colab
+* Google Colab
 
 ## Machine Learning Models
 
